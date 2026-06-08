@@ -1,0 +1,15 @@
+# Подпроекты — отдельные репозитории, не вкладываем
+products/
+business-sites-bot/
+dementia-tracker/
+knopka-bablo/
+nikita-trip-2026/
+personal-assistant-bot/
+personal-brand/
+personal-brand-bot/
+# Секреты/мусор
+.env
+*.env
+node_modules/
+*.log
+*.sqlite
